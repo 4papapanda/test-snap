@@ -1,0 +1,64 @@
+Snapshot Report — 2026-03-14
+
+repo not found:
+
+
+---
+
+drastically changed:
+
+
+---
+
+skip entries:
+
+
+---
+
+null entries:
+
+
+---
+
+invalid urls:
+
+
+---
+
+http errors:
+https://api.github.com/repos/mimipipi22/lalajo/branches/build -> 404
+https://api.github.com/repos/mimipipi22/lalajo/branches/builds -> 404
+https://api.github.com/repos/develop202/migu_video/branches/build -> 404
+https://api.github.com/repos/develop202/migu_video/branches/builds -> 404
+https://api.github.com/repos/arranoust/MiraiExt/branches/build -> 404
+https://api.github.com/repos/arranoust/MiraiExt-Test/branches/build -> 404
+https://api.github.com/repos/Asm0d3usX/AnimeX/branches/build -> 404
+https://api.github.com/repos/Asm0d3usX/BetaX/branches/build -> 404
+https://api.github.com/repos/Asm0d3usX/CloudX/branches/build -> 404
+https://api.github.com/repos/CranberrySoup/AniyomiCompatExtension/branches/build -> 404
+https://api.github.com/repos/CzRoez/RepoeblicOfRemaxx/branches/build -> 404
+https://api.github.com/repos/CzRoez/RepoeblicOfRemaxx/branches/builds -> 404
+https://api.github.com/repos/danzybae/x5leaf/branches/build -> 404
+https://api.github.com/repos/doGior/18plus-Extensions/branches/build -> 404
+https://api.github.com/repos/duro92/ExtCloud/branches/build -> 404
+https://api.github.com/repos/HatsuneMikuUwU/cloudstream-extensions-uwu/branches/build -> 404
+https://api.github.com/repos/Mohirufy/HiroStream/branches/build -> 404
+https://api.github.com/repos/mozzaru/cloudstream-extensions-phisher/branches/build -> 404
+https://api.github.com/repos/NivinCNC/CNCVerse-Cloud-Stream-Extension/branches/build -> 404
+https://api.github.com/repos/nuyuls79/Premix/branches/build -> 404
+https://api.github.com/repos/nuyuls79/StreamPlay-movie/branches/build -> 404
+https://api.github.com/repos/owenconnorz/XXX/branches/build -> 404
+https://api.github.com/repos/phisher98/cloudstream-extensions-phisher/branches/build -> 404
+https://api.github.com/repos/phisher98/CXXX/branches/build -> 404
+https://api.github.com/repos/SaurabhKaperwan/CSX/branches/build -> 404
+https://api.github.com/repos/Sims888/AdiManuLateri3/branches/build -> 404
+https://api.github.com/repos/Sofie99/cloudstream-extensions-sofie/branches/build -> 404
+https://api.github.com/repos/sudikama/antinrml-repo/branches/build -> 404
+https://api.github.com/repos/sudikama/tukustream-repo/branches/build -> 404
+https://api.github.com/repos/Sushan64/NetMirror-Extension/branches/build -> 404
+https://api.github.com/repos/amanhnb88/Premium_Repo/branches/build -> 404
+https://api.github.com/repos/vsckky/vsc/branches/build -> 404
+https://api.github.com/repos/vsckky/vsc/branches/builds -> 404
+https://cdm-project.com/CDRM-Team/CDMs/archive/main.tar.gz -> 401
+https://cdm-project.com/CDRM-Team/pyplayready/archive/main.tar.gz -> 401
+https://kohiden.xyz/Kohi-den/extensions/archive/main.tar.gz -> 403
